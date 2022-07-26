@@ -1,3 +1,8 @@
+# Introduction
+This was a part of the "CNN-Based Self-driving Car with ADAS" graduation project class 2022 in partial fulfillment of the requirements for the Bachelor's Degree of Science in communication and Electronics Engineering from Faculty of Engineering, Alexandria University.
+
+[Graduation project book](https://drive.google.com/file/d/1X-FDfQjnjy9UdPvW6ByzasL-snUw3WB8/view)
+
 # Semantic Segmentation
 - The goal of semantic segmentation is to classify each pixel of the image in a specific label.
 - We will implement this segmentation using U-Net model.
